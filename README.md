@@ -20,10 +20,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on exciting Web Development projects.
+- 🔭 I’m currently working on exciting GenAI projects.
 - 🌱 Learning Backend Development, DSA, and core AI/ML concepts.
 - 🤝 Open to collaborating on hackathons and impactful projects.
-- 💬 Ask me about **Web Development**, **Machine Learning**, and **Data Science**.
+- 💬 Ask me about **GenAI**, **Web Development**, **Machine Learning**, and **Data Science**.
 - 📫 Reach me: `ishanpeshkar@gmail.com` | [LinkedIn](https://www.linkedin.com/in/ishan-peshkar/)
 - ⚡ Fun fact: **Daily GitHub commits = Developer gains 😎**
 
